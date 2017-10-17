@@ -10,6 +10,7 @@
     <modules>
         <module>mvc-xml</module>
         <module>security-xml</module>
+        <module>core-java</module>
     </modules>
     <packaging>pom</packaging>
 
