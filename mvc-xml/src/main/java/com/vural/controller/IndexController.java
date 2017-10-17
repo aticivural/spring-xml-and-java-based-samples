@@ -1,4 +1,4 @@
-package com.vural.contoller;
+package com.vural.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
