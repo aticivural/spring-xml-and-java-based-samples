@@ -12,6 +12,8 @@
         <module>security-xml</module>
         <module>core-java</module>
         <module>mvc-java</module>
+        <module>security-java</module>
+        <module>security-java-bealdung</module>
     </modules>
     <packaging>pom</packaging>
 

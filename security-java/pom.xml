@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <packaging>war</packaging>
-    <artifactId>mvc-java</artifactId>
+    <artifactId>security-java</artifactId>
 
 
     <dependencies>
@@ -156,7 +156,7 @@
     </properties>
 
     <build>
-        <finalName>mvc-java</finalName>
+        <finalName>security-java</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
@@ -174,7 +174,7 @@
                     <version>2.4</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>mvc-java</warName>
+                        <warName>security-java</warName>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>

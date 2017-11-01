@@ -14,7 +14,7 @@ import org.springframework.web.servlet.view.JstlView;
 @EnableWebMvc //<mvc:annotation-driven/>
 @ComponentScan(basePackages = "com.vural.controller") //<context:component-scan/>
 @Configuration
-public class SpringMvcConfig extends WebMvcConfigurerAdapter {
+public class MvcConfig extends WebMvcConfigurerAdapter {
 
     @Bean
     public ViewResolver viewResolver(){
